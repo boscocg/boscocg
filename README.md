@@ -9,5 +9,4 @@ Fullstack Engineer with 15+ years of experience, graduated in Production Enginee
 
 ❤ Coding
 
-![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=boscocg&show_icons=true&theme=dark)
 
